@@ -7,7 +7,7 @@ This demo is designed to introduce you to [Framer Motion](https://www.framer.com
 
 For a quick introduction, you can visit their website [here](https://www.framer.com/motion/introduction/).
 
-Here’s what you’ll need to keep the demo rolling:
+### Here’s what you’ll need to keep the demo rolling:
 
 - It is recommended to have basic programming knowledge, familiarity with Git, HTML, CSS, JavaScript, and React.JS.
 - An [Azure Subscription](https://azure.microsoft.com/?WT.mc_id=academic-0000-abrilu) (to use Azure Static Web Apps)
