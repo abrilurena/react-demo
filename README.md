@@ -1,18 +1,21 @@
-# Build your 
+# Unleash the Magic of Azure!
+## Building Dynamic Web Apps With React
 
-This demo is to help you get an introduction to [Framer Motion](https://www.framer.com/motion/), which it is an animation library that makes creating animations easy. Here are some examples of the things you can build with Framer Motion and React.JS, so you can deploy it to the Azure Cloud using Azure Static Web Apps.
+![Bunny creating magic - this image was created with Bing Chat](./demoreact/src/bunny.jpg)
 
-You can look at the quick introduction on their website, [here](https://www.framer.com/motion/introduction/).
+This demo is designed to introduce you to [Framer Motion](https://www.framer.com/motion/), an animation library that simplifies the process of creating animations. With Framer Motion and React.JS, you can build dynamic web apps and deploy them to the Azure Cloud using Azure Static Web Apps.
+
+For a quick introduction, you can visit their website [here](https://www.framer.com/motion/introduction/).
 
 Here’s what you’ll need to keep the demo rolling:
 
-- Have basic Git, HTML, CSS and programming knowledge.
-- An [Azure Subscription](https://azure.microsoft.com/) (to use Azure Static Web Apps)
-- A [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-    - You can still use Visual Studio Code to continue with the demo.
+- It is recommended to have basic programming knowledge, familiarity with Git, HTML, CSS, JavaScript, and React.JS.
+- An [Azure Subscription](https://azure.microsoft.com/?WT.mc_id=academic-0000-abrilu) (to use Azure Static Web Apps)
+- A [GitHub account](https://github.com/?WT.mc_id=academic-0000-abrilu).
+    > You can still use [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-abrilu) to continue with the demo.
 - Access to [GitHub Copilot](https://github.com/features/copilot)
 
-![Bunny creating magic - this image was created with Bing Chat](./demoreact/src/bunny.jpg)
+In the `examples` folder, you will find exercises that we covered during the demo. Feel free to recreate them or try them out at home.
 
 References:
 
