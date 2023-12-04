@@ -5,20 +5,13 @@ import { motion } from "framer-motion";
 
 function App() {
   return (
-    <motion.div>
-      <motion.h1
-        animate={{ 
-          y : 100,
-          color: '#fff'
-        }} // ask copilot: what is the difference between animate and initial?
-        // what's the transition yoyo: infinity in framer motion?
-        transition={{
-          yoyo: Infinity,
-          duration: 1
-        }}
-      >Hello World
-      </motion.h1>
-    </motion.div>
+    <motion.div 
+    className='box'
+    animate={{scale: [1, 2, 2, 1, 1],
+      rotate: [0, 0, 270, 270, 0],
+      borderRadius: ["20%", "20%", "50%", "50%", "20%"]}} 
+    
+  ></motion.div>
   );
 }
 

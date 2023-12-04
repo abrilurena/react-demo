@@ -9,3 +9,18 @@ body {
   margin-top: 200px;
 
 }
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.box{
+  width: 120px;
+  height: 120px;
+  border-radius: 4px;
+  background: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
